@@ -1,3 +1,3 @@
 -Hi,I’m @RishP11.<br>
 -I’m interested in programming,web development,and learning about electronics.<br>
--I'm currently doing my B.tech (bachelors) in Electrical Engineering at IIT Dharwad.
+-I'm currently doing my B.Tech (bachelors) in Electrical Engineering at IIT Dharwad.
