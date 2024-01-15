@@ -1,3 +1,3 @@
 -Hi,I’m @Rishabh.<br>
--I’m interested in programming,electronics.I am just starting out in the fields of data science.<br>
+-I’m interested in anything tech.
 -I'm currently doing my B.Tech (bachelors) in Electrical Engineering at IIT Dharwad, India.
