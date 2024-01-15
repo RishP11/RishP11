@@ -1,3 +1,3 @@
 -Hi,I’m @Rishabh.<br>
--I’m interested in anything tech.
+-I’m interested in anything TECH. <br>
 -I'm currently doing my B.Tech (bachelors) in Electrical Engineering at IIT Dharwad, India.
