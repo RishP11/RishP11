@@ -1,5 +1,6 @@
 -Hi,I’m @Rishabh.<br>
 -I’m interested in anything TECH. <br>
+- Research Interests : Digital System and Logic Design, Computer Architecture, Embedded Systems, Wireless Communications, Artificial Intelligence and Machine Learning.
 -I'm currently doing my B.Tech (bachelors) in Electrical Engineering at IIT Dharwad, India.
 - Programming Languages : Python3, C++, C, MATLAB, Verilog HDL
 - Knowledge of : 8085/ 8051 Assembly
