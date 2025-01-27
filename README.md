@@ -1,4 +1,4 @@
--Hi,I’m ${\color{cyan}Rishabh}$.<br>
+-Hi,I’m ${\color{blue}Rishabh}$.<br>
 -I’m interested in anything __TECH__ <br>
   - _Research Interests_: Digital System and Logic Design, Computer Architecture, Embedded Systems, Wireless Communications, Artificial Intelligence and Machine Learning.<br>
   - _Academics_: I'm currently doing my B.Tech (bachelors) in Electrical Engineering at IIT Dharwad, India.
